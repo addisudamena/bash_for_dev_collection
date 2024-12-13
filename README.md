@@ -2,6 +2,8 @@
 
 A collection of reusable Bash functions and shortcuts to streamline your daily developer tasks, automate workflows, and supercharge your terminal efficiency. Perfect for simplifying Git, Docker, file management, and much more! 🚀
 
+Read the full article on <a href="https://medium.com/p/ef52520a5c84"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>
+
 ---
 
 ## 📖 Table of Contents
@@ -103,6 +105,8 @@ docker_prune() {
 ```bash
 docker_prune
 ```
+
+Explanation : href="https://medium.com/p/ef52520a5c84
 
 ---
 
